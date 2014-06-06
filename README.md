@@ -4,4 +4,4 @@ datasciencecoursera
 Coursera 
 
 
-This is my first time using GitHub, and I'm a bit confused. But figuring it out.
+This is my first time using GitHub, but figuring it out. So there will probably be lots of random files in here for now.
