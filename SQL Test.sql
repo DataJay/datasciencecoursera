@@ -2,7 +2,7 @@
 
 select date;
 
-select date - 1;
+select date - 10;
 
 select extract (month from date) as month_;
 
